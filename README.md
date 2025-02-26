@@ -37,7 +37,7 @@ A simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. This is
 5. Click the **Restart Game** button to play again.  
 
 ## 🖼️ Screenshot  
-![Tic-Tac-Toe Game](https://via.placeholder.com/600x400?text=Tic-Tac-Toe+Game)  
+![Tic-Tac-Toe Game](https://github.com/Rithesh0115/Tic-Tac-Toe/blob/c304daa3227ab1533974c8b3bcd32d2cba2e9647/Screenshot%201.png)  
 
 ## 🐝 License  
 This project is **open-source** and free to use under the [MIT License](LICENSE).  
