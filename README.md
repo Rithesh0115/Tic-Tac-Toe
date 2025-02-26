@@ -36,13 +36,15 @@ A simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. This is
 4. If all cells are filled and there’s no winner, it’s a **draw**.  
 5. Click the **Restart Game** button to play again.  
 
-## 🖼️ Screenshot  
+## 🖼️ Screenshot 1  
 ![Tic-Tac-Toe Game](https://github.com/Rithesh0115/Tic-Tac-Toe/blob/c304daa3227ab1533974c8b3bcd32d2cba2e9647/Screenshot%201.png)  
+## 🖼️ Screenshot 2
+![Tic-Tac-Toe Game](https://github.com/Rithesh0115/Tic-Tac-Toe/blob/e50396c5d39ac06eb4b21b6db83c3d901cdf8547/Screenshot%202.png)
 
 ## 🐝 License  
 This project is **open-source** and free to use under the [MIT License](LICENSE).  
 
 ---
 
-Made with ❤️ by **Your Name**  
+Made with ❤️ by **Rithesh**  
 
